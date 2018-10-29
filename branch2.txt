@@ -1,0 +1,1 @@
+hi this is branch2 and should be added to master along with branch1
