@@ -1,2 +1,4 @@
 Hi this is green.txt file and this is practice in github
 This is another commit here we go
+This should come after branch1 added and if this is so then it is called
+branching
